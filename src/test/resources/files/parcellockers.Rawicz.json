@@ -1,0 +1,181 @@
+[ {
+  "name" : "POP-RWA10",
+  "location" : {
+    "latitude" : 51.61526,
+    "longitude" : 16.86302
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "POP-RWA6",
+  "location" : {
+    "latitude" : 51.61725,
+    "longitude" : 16.87393
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "POP-RWA9",
+  "location" : {
+    "latitude" : 51.61171,
+    "longitude" : 16.86458
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "POP-RWI1",
+  "location" : {
+    "latitude" : 51.61519,
+    "longitude" : 16.85879
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "PWA01A",
+  "location" : {
+    "latitude" : 51.6083,
+    "longitude" : 16.86138
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA01A",
+  "location" : {
+    "latitude" : 51.608,
+    "longitude" : 16.8613
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA01APP",
+  "location" : {
+    "latitude" : 51.61598,
+    "longitude" : 16.86856
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA01BAPP",
+  "location" : {
+    "latitude" : 51.63521,
+    "longitude" : 16.90599
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA01M",
+  "location" : {
+    "latitude" : 51.6146,
+    "longitude" : 16.86742
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA01N",
+  "location" : {
+    "latitude" : 51.60467,
+    "longitude" : 16.86356
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA02A",
+  "location" : {
+    "latitude" : 51.61172,
+    "longitude" : 16.85326
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA02BAPP",
+  "location" : {
+    "latitude" : 51.61064,
+    "longitude" : 16.86675
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA02M",
+  "location" : {
+    "latitude" : 51.612,
+    "longitude" : 16.8406
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA03M",
+  "location" : {
+    "latitude" : 51.6059,
+    "longitude" : 16.8511
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA03N",
+  "location" : {
+    "latitude" : 51.60101,
+    "longitude" : 16.85177
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA04M",
+  "location" : {
+    "latitude" : 51.6164,
+    "longitude" : 16.8594
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA05M",
+  "location" : {
+    "latitude" : 51.61287,
+    "longitude" : 16.8613
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA06M",
+  "location" : {
+    "latitude" : 51.6191,
+    "longitude" : 16.8742
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA07M",
+  "location" : {
+    "latitude" : 51.5982,
+    "longitude" : 16.8592
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+}, {
+  "name" : "RWA08M",
+  "location" : {
+    "latitude" : 51.60239,
+    "longitude" : 16.85748
+  },
+  "address_details" : {
+    "post_code" : "63-900"
+  }
+} ]

@@ -1,0 +1,226 @@
+[ {
+  "name" : "LBU01A",
+  "location" : {
+    "latitude" : 51.4049,
+    "longitude" : 16.1675
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU01APP",
+  "location" : {
+    "latitude" : 51.38926,
+    "longitude" : 16.20921
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU01BAPP",
+  "location" : {
+    "latitude" : 51.40747,
+    "longitude" : 16.17145
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU01HO",
+  "location" : {
+    "latitude" : 51.3939,
+    "longitude" : 16.2055
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU01HP",
+  "location" : {
+    "latitude" : 51.38685,
+    "longitude" : 16.2125
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU01L",
+  "location" : {
+    "latitude" : 51.4027,
+    "longitude" : 16.2118
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU01M",
+  "location" : {
+    "latitude" : 51.3888,
+    "longitude" : 16.2135
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU02A",
+  "location" : {
+    "latitude" : 51.38569,
+    "longitude" : 16.21468
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU02APP",
+  "location" : {
+    "latitude" : 51.40139,
+    "longitude" : 16.16964
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU02BAPP",
+  "location" : {
+    "latitude" : 51.41173,
+    "longitude" : 16.21569
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU02HP",
+  "location" : {
+    "latitude" : 51.38433,
+    "longitude" : 16.20314
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU02L",
+  "location" : {
+    "latitude" : 51.4043,
+    "longitude" : 16.1712
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU02M",
+  "location" : {
+    "latitude" : 51.437,
+    "longitude" : 16.0969
+  },
+  "address_details" : {
+    "post_code" : "59-335"
+  }
+}, {
+  "name" : "LBU02N",
+  "location" : {
+    "latitude" : 51.4039,
+    "longitude" : 16.1862
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU03A",
+  "location" : {
+    "latitude" : 51.40238,
+    "longitude" : 16.19945
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU03BAPP",
+  "location" : {
+    "latitude" : 51.40755,
+    "longitude" : 16.17965
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU03HP",
+  "location" : {
+    "latitude" : 51.40285,
+    "longitude" : 16.16666
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU03L",
+  "location" : {
+    "latitude" : 51.39367,
+    "longitude" : 16.2092
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU03M",
+  "location" : {
+    "latitude" : 51.40198,
+    "longitude" : 16.20082
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU03N",
+  "location" : {
+    "latitude" : 51.3821,
+    "longitude" : 16.2081
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU04A",
+  "location" : {
+    "latitude" : 51.4044,
+    "longitude" : 16.189
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU04BAPP",
+  "location" : {
+    "latitude" : 51.40408,
+    "longitude" : 16.20448
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU04M",
+  "location" : {
+    "latitude" : 51.3973,
+    "longitude" : 16.217
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU04N",
+  "location" : {
+    "latitude" : 51.4003,
+    "longitude" : 16.2103
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+}, {
+  "name" : "LBU05M",
+  "location" : {
+    "latitude" : 51.4057,
+    "longitude" : 16.2015
+  },
+  "address_details" : {
+    "post_code" : "59-300"
+  }
+} ]

@@ -1,0 +1,226 @@
+[ {
+  "name" : "POP-SZC11",
+  "location" : {
+    "latitude" : 53.45893,
+    "longitude" : 14.57982
+  },
+  "address_details" : {
+    "post_code" : "71-714"
+  }
+}, {
+  "name" : "POP-SZC110",
+  "location" : {
+    "latitude" : 53.45014,
+    "longitude" : 14.54786
+  },
+  "address_details" : {
+    "post_code" : "71-467"
+  }
+}, {
+  "name" : "POP-SZC120",
+  "location" : {
+    "latitude" : 53.44109,
+    "longitude" : 14.51286
+  },
+  "address_details" : {
+    "post_code" : "71-382"
+  }
+}, {
+  "name" : "POP-SZC121",
+  "location" : {
+    "latitude" : 53.38146,
+    "longitude" : 14.65238
+  },
+  "address_details" : {
+    "post_code" : "70-777"
+  }
+}, {
+  "name" : "POP-SZC123",
+  "location" : {
+    "latitude" : 53.43118,
+    "longitude" : 14.55483
+  },
+  "address_details" : {
+    "post_code" : "70-555"
+  }
+}, {
+  "name" : "POP-SZC124",
+  "location" : {
+    "latitude" : 53.39817,
+    "longitude" : 14.52515
+  },
+  "address_details" : {
+    "post_code" : "70-023"
+  }
+}, {
+  "name" : "POP-SZC127",
+  "location" : {
+    "latitude" : 53.45305,
+    "longitude" : 14.54893
+  },
+  "address_details" : {
+    "post_code" : "71-472"
+  }
+}, {
+  "name" : "POP-SZC129",
+  "location" : {
+    "latitude" : 53.43946,
+    "longitude" : 14.57168
+  },
+  "address_details" : {
+    "post_code" : "71-635"
+  }
+}, {
+  "name" : "POP-SZC132",
+  "location" : {
+    "latitude" : 53.41032,
+    "longitude" : 14.52985
+  },
+  "address_details" : {
+    "post_code" : "70-110"
+  }
+}, {
+  "name" : "POP-SZC133",
+  "location" : {
+    "latitude" : 53.42473,
+    "longitude" : 14.54817
+  },
+  "address_details" : {
+    "post_code" : "70-233"
+  }
+}, {
+  "name" : "POP-SZC134",
+  "location" : {
+    "latitude" : 53.42969,
+    "longitude" : 14.54314
+  },
+  "address_details" : {
+    "post_code" : "70-437"
+  }
+}, {
+  "name" : "POP-SZC136",
+  "location" : {
+    "latitude" : 53.46427,
+    "longitude" : 14.57707
+  },
+  "address_details" : {
+    "post_code" : "71-757"
+  }
+}, {
+  "name" : "POP-SZC137",
+  "location" : {
+    "latitude" : 53.45758,
+    "longitude" : 14.49318
+  },
+  "address_details" : {
+    "post_code" : "71-245"
+  }
+}, {
+  "name" : "POP-SZC139",
+  "location" : {
+    "latitude" : 53.42442,
+    "longitude" : 14.55133
+  },
+  "address_details" : {
+    "post_code" : "70-412"
+  }
+}, {
+  "name" : "POP-SZC146",
+  "location" : {
+    "latitude" : 53.42742,
+    "longitude" : 14.53643
+  },
+  "address_details" : {
+    "post_code" : "70-251"
+  }
+}, {
+  "name" : "POP-SZC147",
+  "location" : {
+    "latitude" : 53.43082,
+    "longitude" : 14.54663
+  },
+  "address_details" : {
+    "post_code" : "70-436"
+  }
+}, {
+  "name" : "POP-SZC149",
+  "location" : {
+    "latitude" : 53.42392,
+    "longitude" : 14.5579
+  },
+  "address_details" : {
+    "post_code" : "70-200"
+  }
+}, {
+  "name" : "POP-SZC151",
+  "location" : {
+    "latitude" : 53.39395,
+    "longitude" : 14.50191
+  },
+  "address_details" : {
+    "post_code" : "71-001"
+  }
+}, {
+  "name" : "POP-SZC155",
+  "location" : {
+    "latitude" : 53.42695,
+    "longitude" : 14.54568
+  },
+  "address_details" : {
+    "post_code" : "70-470"
+  }
+}, {
+  "name" : "POP-SZC164",
+  "location" : {
+    "latitude" : 53.42706,
+    "longitude" : 14.53409
+  },
+  "address_details" : {
+    "post_code" : "70-315"
+  }
+}, {
+  "name" : "POP-SZC165",
+  "location" : {
+    "latitude" : 53.4499,
+    "longitude" : 14.5003
+  },
+  "address_details" : {
+    "post_code" : "71-244"
+  }
+}, {
+  "name" : "POP-SZC166",
+  "location" : {
+    "latitude" : 53.4275,
+    "longitude" : 14.53424
+  },
+  "address_details" : {
+    "post_code" : "70-317"
+  }
+}, {
+  "name" : "POP-SZC168",
+  "location" : {
+    "latitude" : 53.43875,
+    "longitude" : 14.55674
+  },
+  "address_details" : {
+    "post_code" : "71-502"
+  }
+}, {
+  "name" : "POP-SZC169",
+  "location" : {
+    "latitude" : 53.43036,
+    "longitude" : 14.55486
+  },
+  "address_details" : {
+    "post_code" : "70-552"
+  }
+}, {
+  "name" : "POP-SZC170",
+  "location" : {
+    "latitude" : 53.44627,
+    "longitude" : 14.56094
+  },
+  "address_details" : {
+    "post_code" : "71-533"
+  }
+} ]

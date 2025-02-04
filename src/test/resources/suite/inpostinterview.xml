@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <suite name="In Post Interview Tests">
-    <test name = "test">
+    <test name = "Tests">
+        <!--<groups>
+            <run>
+                <include name="GUI"/>
+                <include name="API"/>
+            </run>
+        </groups>-->
         <classes>
-            <class name="FirstTestClass"/>
+            <class name="tests.ParcelTrackingTests"/>
         </classes>
     </test>
 </suite>
